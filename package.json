@@ -42,10 +42,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naaiyy/Easylink.git"
+    "url": "git+https://github.com/naaiyy/Easylink-2.git"
   },
   "bugs": {
-    "url": "https://github.com/naaiyy/Easylink/issues"
+    "url": "https://github.com/naaiyy/Easylink-2/issues"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.6.1",
